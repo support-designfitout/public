@@ -20,3 +20,33 @@
     </div>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design FitOutLab | Arun K Ravi</title>
+    <style>
+        body { font-family: 'Arial', sans-serif; background: #111; color: #fff; text-align: center; padding: 50px; }
+        .container { max-width: 600px; margin: auto; }
+        h1 { font-size: 2.5em; letter-spacing: 2px; }
+        p { color: #ccc; }
+        .btn { display: inline-block; padding: 15px 30px; margin: 10px; color: #111; background: #fff; text-decoration: none; font-weight: bold; border-radius: 5px; }
+        .btn-whatsapp { background: #25D366; color: #fff; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>DESIGN FITOUTLAB</h1>
+        <p>Sovereign Design & Architecture</p>
+        <p>Dubai, UAE</p>
+        <br>
+        <!-- The Sovereign Link to your Resume -->
+        <a href="resume.pdf" class="btn">View Official Resume</a>
+        
+        <!-- The Privacy-Shielded WhatsApp Link -->
+        <!-- REPLACE '971xxxxxxxxx' WITH YOUR BRAND NUMBER BELOW -->
+        <a href="https://wa.me/971526446553" class="btn btn-whatsapp">Contact via WhatsApp</a>
+    </div>
+</body>
+</html>
