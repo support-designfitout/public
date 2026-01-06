@@ -41,9 +41,6 @@
         <p>Sovereign Design & Architecture</p>
         <p>Dubai, UAE</p>
         <br>
-        <!-- The Sovereign Link to your Resume -->
-        <a href="resume.pdf" class="btn">View Official Resume</a>
-        <!-- CORRECTED: Links to the COMPANY Profile, not the Owner -->
-<!-- Ensure this number is registered in the 'WhatsApp Business' App to show the DFOL Logo -->
-
-<a href="https://wa.me/9715xxxxxxxxx" class="btn btn-whatsapp">Contact Design FitOutLab</a>
+        # Contact Us
+For sovereign inquiries and fit-out requests:
+[Email Design FitOutLab](mailto:Arun@designfitout.com)
