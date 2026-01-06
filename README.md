@@ -43,14 +43,7 @@
         <br>
         <!-- The Sovereign Link to your Resume -->
         <a href="resume.pdf" class="btn">View Official Resume</a>
-        
-        <!-- The Privacy-Shielded WhatsApp Link -->
-        <!-- REPLACE '971xxxxxxxxx' WITH YOUR BRAND NUMBER BELOW -->
-        <a href="https://wa.me/971526446553" class="btn btn-whatsapp">Contact via WhatsApp</a>
-    </div>
-</body>
-</html>
-<!-- The Privacy-Shielded WhatsApp Link -->
-    <!-- REPLACE '971xxxxxxxxx' WITH YOUR BRAND NUMBER BELOW -->
-    <a href="https://wa.me/971526446553" class="btn btn-whatsapp">Contact via WhatsApp</a>
-</div>
+        <!-- CORRECTED: Links to the COMPANY Profile, not the Owner -->
+<!-- Ensure this number is registered in the 'WhatsApp Business' App to show the DFOL Logo -->
+
+<a href="https://wa.me/9715xxxxxxxxx" class="btn btn-whatsapp">Contact Design FitOutLab</a>
