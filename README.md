@@ -50,3 +50,7 @@
     </div>
 </body>
 </html>
+<!-- The Privacy-Shielded WhatsApp Link -->
+    <!-- REPLACE '971xxxxxxxxx' WITH YOUR BRAND NUMBER BELOW -->
+    <a href="https://wa.me/971526446553" class="btn btn-whatsapp">Contact via WhatsApp</a>
+</div>
